@@ -1,8 +1,12 @@
-# { name } resume
+# Ryunosuke Muramatsu (Riscait) Resume
 
-## Sample
+## Set up
 
-https://github.com/kawamataryo/resume
+```
+$ sudo npm install -g yarn
+$ cd {PROJECT_ROOT}
+$ yarn install
+```
 
 ## Features
 
@@ -15,8 +19,6 @@ $ yarn lint --fix
 ```
 It is also automatically executed when pre-commit by [husky](https://github.com/typicode/husky).  
 proofreading rules are set with `.textlintrc`.
-
-
 
 ### 📝 Convert MD to PDF
 
@@ -35,7 +37,7 @@ When you push with a `v**` tag, GitHub Actions will run the build, generate the 
 
 ```
 $ git commit -m "add job"
-$ git tag v1.0
+$ git tag v1.0.0
 $ git push origin --tags
 ```
 
