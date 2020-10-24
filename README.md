@@ -2,7 +2,7 @@
 
 ## Data
 
-- [GitHub Pages](https://riscait.github.io/resume/)  
+- [GitHub Pages](https://riscait.github.io/Resume/)  
 - [PDF](https://github.com/riscait/resume/releases)  
 - [File](https://github.com/riscait/resume/blob/master/docs/README.md)  
 
