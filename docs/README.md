@@ -19,7 +19,7 @@
 - Flutter x Firebase によるアプリ設計・開発・リリース
 - Swift / Objective-C による iOS ネイティブ開発知識
 - Codemagic, Bitrise, GitHub Actions による CI/CD 構築
-- アジャイル・スクラム経験
+- アジャイル・スクラムによるチーム開発
 - 勉強会の主催経験
 
 ---
@@ -31,7 +31,7 @@
 - Swift
 - Dart
 - Objective-C
-- TypeScript
+- TypeScript（少し）
 - Java
 
 ### フレームワーク・その他
@@ -43,6 +43,34 @@
 ---
 
 ## 職務経歴詳細
+
+### 体調改善系Flutterアプリ開発
+
+- 期間：2020/12〜現在
+- 株式会社Manabelle（形態：業務委託）
+
+#### プロジェクト規模
+
+- 開発 チーム 2 人
+
+#### 役割
+- 既存のiOSアプリがある状況での、Flutterを使ったAndroidアプリ開発。
+
+---
+
+### トレーニング支援系Flutterアプリ開発
+
+- 期間：2020/11〜現在
+- 株式会社DeltaLab（形態：業務委託）
+
+#### プロジェクト規模
+
+- 開発 チーム 2 人
+
+#### 役割
+- アプリリリースに向けて、アーキテクチャ選定・設計・機能開発。
+
+---
 
 ### マッチング系iOSアプリ開発
 
@@ -115,7 +143,7 @@
 
 ### 個人アプリ開発
 
-- [備蓄の期限管理アプリ - リストック]()： Flutter - iOS & Android
+- 備蓄の期限管理アプリ - リストック([iOS](https://apps.apple.com/jp/app/id1523128250)), ([Android](https://play.google.com/store/apps/details?id=jp.altive.restock))： Flutter - iOS & Android
 - 有給休暇の管理アプリ - レストル： Flutter - iOS & Android
 - 記念日管理アプリ - メモリア： iOS ネイティブ
 - 有給休暇の管理アプリ - 有休がーる： iOS ネイティブ
